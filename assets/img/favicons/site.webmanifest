@@ -1,0 +1,14 @@
+{
+  "name": "C\u00e9sar Rguez",
+  "short_name": "C\u00e9sar Rguez",
+  "icons": [
+    {
+      "src": "/assets/img/favicons/android-chrome-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#ffffff",
+  "background_color": "#13CD8E",
+  "display": "standalone"
+}

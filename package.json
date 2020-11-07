@@ -1,0 +1,38 @@
+{
+  "name": "cesarrrguez.github.io",
+  "version": "1.0.0",
+  "description": "My personal website",
+  "main": "index.html",
+  "scripts": {
+    "lint": "eslint assets/js",
+    "lint:fix": "eslint assets/js --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cesarrrguez/cesarrrguez.github.io.git"
+  },
+  "keywords": [
+    "César Rodríguez",
+    "ingeniero de software",
+    "desarrollador de software",
+    "programador",
+    "software engineer",
+    "software developer",
+    "programmer"
+  ],
+  "author": "César Rodríguez <cesar.rrguez@gmail.com> (https://cesarrrguez.github.io)",
+  "license": "MIT",
+  "homepage": "https://github.com/cesarrrguez/cesarrrguez.github.io#readme",
+  "bugs": {
+    "url": "https://github.com/cesarrrguez/cesarrrguez.github.io/issues",
+    "email": "cesar.rrguez@gmail.com"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-import": "^2.20.2",
+    "eslint-plugin-prettier": "^3.1.3",
+    "prettier": "^2.0.5"
+  }
+}
